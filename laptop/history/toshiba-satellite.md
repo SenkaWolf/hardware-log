@@ -43,3 +43,5 @@
 - Very loud fans
 
 ![Toshiba Satellite C855-29L](https://github.com/senkawolf/hardware-log/blob/main/images/stock/toshiba-satellite-c855-29l.png?raw=true)
+
+![Setup](https://github.com/senkawolf/hardware-log/blob/main/images/laptop/2013-08-08.JPG?raw=true)
