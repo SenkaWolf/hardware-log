@@ -29,6 +29,10 @@ This repository exists to:
 - [MacBook Pro M1 14"](laptop/macbook-pro-m1-14.md)
 - [History](laptop/history/)   
 
+### Homelab
+- [MacBook Pro M1 14"](homelab/beelink-gr9-mini-pc.md)
+- [History](homelab/history/)  
+
 ### Other
 - [Peripherals](peripherals/peripherals.md)
 - [Old Peripherals](peripherals/old-peripherals.md) 
