@@ -61,3 +61,5 @@
 ## Notes
 - Samsung 980 PRO and Crucial T500 carried over from previous build
 - First PCIe 5.0 system
+
+![Setup](https://github.com/senkawolf/hardware-log/blob/main/images/desktop/2025-08-13.jpeg?raw=true)

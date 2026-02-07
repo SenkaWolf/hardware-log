@@ -60,3 +60,5 @@
 - Originally built with SATA SSD + HDD only
 - Samsung 980 PRO added later as first NVMe upgrade
 - Crucial T500 added near end of system life for high-speed storage
+
+![Setup](https://github.com/senkawolf/hardware-log/blob/main/images/desktop/2022-03-27.jpeg?raw=true)
