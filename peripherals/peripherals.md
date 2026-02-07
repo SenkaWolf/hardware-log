@@ -30,6 +30,8 @@
 - Xbox Series X Wireless Controller
 - 8Bitdo Ultimate 2C Wireless Controller Black Myth: Wukong
 - PowerA Enhanced Wireless Controller for Nintendo Switch Pokémon Sword Edition
+- Logitech K400 Wireless Touch Keyboard
+- Logitech M510 Wireless Mouse
 - TrackIR 5 with TrackClip Pro
 - Logitech C920 HD Pro
 - Logitech G29 Racing Wheel
